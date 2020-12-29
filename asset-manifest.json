@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/deliverit/static/css/main.77894753.chunk.css",
+    "main.js": "/deliverit/static/js/main.9dfa52e5.chunk.js",
+    "main.js.map": "/deliverit/static/js/main.9dfa52e5.chunk.js.map",
+    "runtime-main.js": "/deliverit/static/js/runtime-main.4141132e.js",
+    "runtime-main.js.map": "/deliverit/static/js/runtime-main.4141132e.js.map",
+    "static/js/2.7eebf806.chunk.js": "/deliverit/static/js/2.7eebf806.chunk.js",
+    "static/js/2.7eebf806.chunk.js.map": "/deliverit/static/js/2.7eebf806.chunk.js.map",
+    "index.html": "/deliverit/index.html",
+    "static/css/main.77894753.chunk.css.map": "/deliverit/static/css/main.77894753.chunk.css.map",
+    "static/js/2.7eebf806.chunk.js.LICENSE.txt": "/deliverit/static/js/2.7eebf806.chunk.js.LICENSE.txt",
+    "static/media/amazon.3f271f49.png": "/deliverit/static/media/amazon.3f271f49.png",
+    "static/media/delivered.d8f24212.jpg": "/deliverit/static/media/delivered.d8f24212.jpg",
+    "static/media/fedex.f941e8d4.png": "/deliverit/static/media/fedex.f941e8d4.png",
+    "static/media/maplocation.c108193f.png": "/deliverit/static/media/maplocation.c108193f.png",
+    "static/media/index.css": "/deliverit/static/media/mountainlowpoly.b3406575.png",
+    "static/media/swiggy.9ce62c04.png": "/deliverit/static/media/swiggy.9ce62c04.png",
+    "static/media/translogo.742146a2.png": "/deliverit/static/media/translogo.742146a2.png",
+    "static/media/userprofile.394694a5.png": "/deliverit/static/media/userprofile.394694a5.png",
+    "static/media/valuecanvas.d20bf91c.png": "/deliverit/static/media/valuecanvas.d20bf91c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4141132e.js",
+    "static/js/2.7eebf806.chunk.js",
+    "static/css/main.77894753.chunk.css",
+    "static/js/main.9dfa52e5.chunk.js"
+  ]
+}
