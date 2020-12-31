@@ -36,7 +36,7 @@ export default class Services extends React.Component{
 <br/>
 
 <ul>
-    <NavLink style={{color:"white",textDecoration:"none"}} to="/about/">
+    <NavLink style={{color:"white",textDecoration:"none"}} to="/deliverit/about/">
 <h3 >Team</h3>
 </NavLink>
 <br/>
@@ -44,7 +44,7 @@ export default class Services extends React.Component{
 <h3>Terms</h3>
 </NavLink>
 <br/>
-<NavLink style={{color:"white",textDecoration:"none"}} to="/howitworks">
+<NavLink style={{color:"white",textDecoration:"none"}} to="/deliverit/howitworks">
 <h4 style={{marginBottom:5}}>How does it work?</h4>
 </NavLink>
 </ul>

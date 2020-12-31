@@ -27,12 +27,12 @@ class App extends Component {
         <NavBar/>
         <Switch>
           <Route exact path="/deliverit" component={Home}/>
-          <Route path="/about" component={About}/>
-          <Route path="/contact" component={Contact}/>
-          <Route path="/howitworks" component={HowItWorks}/>
-          <Route path="/services" component={Services}/>
-          <Route path="/possiblepartners/" component={WhoWeCouldWorkWith}/>
-          <Route path="/signup/" component={SignUp}/>
+          <Route path="/deliverit/about" component={About}/>
+          <Route path="/deliverit/contact" component={Contact}/>
+          <Route path="/deliverit/howitworks" component={HowItWorks}/>
+          <Route path="/deliverit/services" component={Services}/>
+          <Route path="/deliverit/possiblepartners/" component={WhoWeCouldWorkWith}/>
+          <Route path="/deliverit/signup/" component={SignUp}/>
           <Route component={NotFound} />
         </Switch>
       </div>

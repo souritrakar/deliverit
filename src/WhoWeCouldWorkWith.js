@@ -29,7 +29,7 @@ export default class WhoWeCouldWorkWith extends React.Component{
 <br/>
 
 <ul>
-    <NavLink style={{color:"white",textDecoration:"none"}} to="/about/">
+    <NavLink style={{color:"white",textDecoration:"none"}} to="/deliverit/about/">
 <h3 >Team</h3>
 </NavLink>
 <br/>

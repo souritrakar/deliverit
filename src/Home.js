@@ -26,7 +26,7 @@ class Home extends Component{
             <div class="buttons">
               <div class="container">
   
-                 <NavLink to="/howitworks" class="btn effect01" ><span>FIND OUT</span></NavLink>
+                 <NavLink to="/deliverit/howitworks" class="btn effect01" ><span>FIND OUT</span></NavLink>
                  </div>
             </div>
     </div>
@@ -37,7 +37,7 @@ class Home extends Component{
                 <div class="buttons">
                     <div class="container">
      
-                         <NavLink to="/services" class="btn effect01" ><span>KNOW MORE</span></NavLink>
+                         <NavLink to="/deliverit/services" class="btn effect01" ><span>KNOW MORE</span></NavLink>
                      </div>
                 </div>
             </div>
@@ -52,7 +52,7 @@ class Home extends Component{
 <br/>
 
 <ul>
-    <NavLink style={{color:"white",textDecoration:"none"}} to="/about/">
+    <NavLink style={{color:"white",textDecoration:"none"}} to="/deliverit/about/">
 <h3 >Team</h3>
 </NavLink>
 <br/>
