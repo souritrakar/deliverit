@@ -12,11 +12,11 @@ class About extends React.Component{
 </div>
 
 
-<h1 id="member" style={{marginTop:35,fontSize:60,marginBottom:43,color:"#0082c8",textAlign:"center"}}>Souritra Kar - Website</h1>
+<h1 id="member" style={{marginTop:15,fontSize:60,marginBottom:28,color:"#0082c8",textAlign:"center"}}>Souritra Kar - Website</h1>
 
 
-<h1 style={{fontSize:40,textAlign:"center",marginBottom:"1%"}}>Other Team Members:</h1>
-<br/>
+
+
 
   <h1 id="member" style={{color:"chocolate",textAlign:"center"}}>Tanmay Khataria</h1>
 <br/>

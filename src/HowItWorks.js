@@ -76,6 +76,7 @@ export default class HowItWorks extends React.Component{
           <br/>
           <br/>
       <h1 style={{textAlign:"center",marginBottom:30,color:"#2C7744",fontSize:50}}>DeliverIt app yet to be released.</h1>
+      <center><iframe width="1110" height="520" src="https://www.powtoon.com/embed/baLCijOPH76/" frameborder="0" allowfullscreen></iframe></center>
 
           <div id="aboutbanner">
 
